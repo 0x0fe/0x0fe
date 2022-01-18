@@ -1,1 +1,1 @@
- @0x0fe, France, ressource contrainted embedded systems architecture and hardware design, production.
+France, Shenzhen, embedded systems architecture and hardware design. ODM OEM.
